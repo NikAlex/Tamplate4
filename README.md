@@ -1,2 +1,3 @@
-# Program1-yasenkov
-[![Build Status](https://travis-ci.org/yar-yasenkov/Program1-yasenkov.svg?branch=master)](https://travis-ci.org/yar-yasenkov/Program1-yasenkov)
+# Program1-niktin
+
+{<img src="https://travis-ci.org/NikAlex/Tamplate4.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/NikAlex/Tamplate4]
