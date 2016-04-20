@@ -85,7 +85,7 @@ public:
 	Matrix(int _rows, int _columns, int time);
 	void Zapoln(char path[256])
 	{
-		char fulpath[256] = "D:\\labiu8\\2 сем\\lab3\\Debug\\";
+		char fulpath[256] = "C:\\Yniver\\AYP\\lab3";
 		int a;
 		fstream fin;
 		strcat_s(fulpath, path);
